@@ -128,6 +128,7 @@ GEM
       slop (~> 3.4)
     pry-rails (0.3.4)
       pry (>= 0.9.10)
+    rack-cors (0.4.0)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails-deprecated_sanitizer (1.0.3)
@@ -157,6 +158,7 @@ DEPENDENCIES
   pg (~> 0.18)
   pry-rails
   rack!
+  rack-cors
   rails!
   sass-rails!
   spring

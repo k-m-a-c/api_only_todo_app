@@ -11,7 +11,7 @@ gem 'pg', '~> 0.18'
 # gem 'unicorn'
 # gem 'capistrano-rails', group: :development
 gem 'active_model_serializers', '~> 0.10.0.rc2'
-# gem 'rack-cors'
+gem 'rack-cors'
 
 group :development, :test do
   gem 'byebug'
