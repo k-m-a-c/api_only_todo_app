@@ -6,7 +6,7 @@ To get things running:
 
 1. Clone the Backbone ToDo app.
 
-2. Change ln 2 of its `js/collections/todos.js` file to `url: 'http://localhost:3000/todos'`
+2. Change line 2 of its `js/collections/todos.js` file to `url: 'http://localhost:3000/todos'`
 
 3. Run it on port 9000 as follows `ruby -run -e httpd . -p 9000`
 
